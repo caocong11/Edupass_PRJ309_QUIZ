@@ -28,6 +28,11 @@
           <span></span>
           <label>Mật khẩu</label>
         </div>
+            <div class="txt_field">
+          <input type="password" required name="repass">
+          <span></span>
+          <label>Nhập lại mật khẩu</label>
+        </div>
         <div class="txt_field">
           <input type="number" required name="phone">
           <span></span>
